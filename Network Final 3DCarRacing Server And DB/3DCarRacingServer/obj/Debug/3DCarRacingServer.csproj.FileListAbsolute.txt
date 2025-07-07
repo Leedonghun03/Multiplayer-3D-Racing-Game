@@ -1,0 +1,80 @@
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\3DCarRacingServer.exe.config
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\3DCarRacingServer.exe
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\3DCarRacingServer.pdb
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\obj\Debug\3DCarRacingServer.csproj.AssemblyReference.cache
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\obj\Debug\3DCarRacingServer.csproj.CoreCompileInputs.cache
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\obj\Debug\3DCarRacingServer.exe
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\obj\Debug\3DCarRacingServer.pdb
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\BouncyCastle.Cryptography.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\Google.Protobuf.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\K4os.Compression.LZ4.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\K4os.Hash.xxHash.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\MySql.Data.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Buffers.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.IO.Pipelines.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Memory.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Numerics.Vectors.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\ZstdSharp.dll
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\BouncyCastle.Cryptography.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\Google.Protobuf.pdb
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\Google.Protobuf.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\K4os.Compression.LZ4.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\K4os.Hash.xxHash.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\MySql.Data.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Buffers.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.IO.Pipelines.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Memory.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Numerics.Vectors.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UnityProject\3DCarRacingServer\3DCarRacingServer\obj\Debug\3DCarRac.9216A63A.Up2Date
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\3DCarRacingServer.exe.config
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\3DCarRacingServer.exe
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\3DCarRacingServer.pdb
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\Google.Protobuf.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\MySql.Data.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Buffers.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.IO.Pipelines.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Memory.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\ZstdSharp.dll
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\Google.Protobuf.pdb
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\Google.Protobuf.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\MySql.Data.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Buffers.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.IO.Pipelines.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Memory.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\obj\Debug\3DCarRacingServer.csproj.AssemblyReference.cache
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\obj\Debug\3DCarRacingServer.csproj.CoreCompileInputs.cache
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\obj\Debug\3DCarRac.9216A63A.Up2Date
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\obj\Debug\3DCarRacingServer.exe
+C:\Users\hanrc\OneDrive\바탕 화면\네트워크 기말 3DCarRacing Server 및 DB\3DCarRacingServer\obj\Debug\3DCarRacingServer.pdb
