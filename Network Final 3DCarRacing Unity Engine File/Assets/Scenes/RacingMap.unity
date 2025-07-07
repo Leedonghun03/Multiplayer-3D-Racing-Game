@@ -3865,10 +3865,34 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 14.085092
       objectReference: {fileID: 0}
+    - target: {fileID: 3014650745409655080, guid: c27384baa63d7b042ab2ec5f98363e74, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b23d2f092bfff084d88ee42eae540f8e, type: 2}
+    - target: {fileID: 3162525062911706851, guid: c27384baa63d7b042ab2ec5f98363e74, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b23d2f092bfff084d88ee42eae540f8e, type: 2}
     - target: {fileID: 3458519479180182303, guid: c27384baa63d7b042ab2ec5f98363e74, type: 3}
       propertyPath: m_LocalPosition.y
       value: 13.309388
       objectReference: {fileID: 0}
+    - target: {fileID: 3897144300348561462, guid: c27384baa63d7b042ab2ec5f98363e74, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b23d2f092bfff084d88ee42eae540f8e, type: 2}
+    - target: {fileID: 3987254325383616697, guid: c27384baa63d7b042ab2ec5f98363e74, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b23d2f092bfff084d88ee42eae540f8e, type: 2}
+    - target: {fileID: 4248314302457027260, guid: c27384baa63d7b042ab2ec5f98363e74, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b23d2f092bfff084d88ee42eae540f8e, type: 2}
+    - target: {fileID: 4463098346821741585, guid: c27384baa63d7b042ab2ec5f98363e74, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b23d2f092bfff084d88ee42eae540f8e, type: 2}
     - target: {fileID: 5771260872433659753, guid: c27384baa63d7b042ab2ec5f98363e74, type: 3}
       propertyPath: m_LocalPosition.y
       value: 13.726849
@@ -3885,6 +3909,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 13.03
       objectReference: {fileID: 0}
+    - target: {fileID: 8900536602650018026, guid: c27384baa63d7b042ab2ec5f98363e74, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b23d2f092bfff084d88ee42eae540f8e, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 2240747503857438892, guid: c27384baa63d7b042ab2ec5f98363e74, type: 3}
